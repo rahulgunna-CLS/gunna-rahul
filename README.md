@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gunna Rahul</h1>
-<h3 align="center">Student at SRM University</h3>
+<h3 align="center">Associate Software Engineer at Celectica</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunna-rahul&label=Profile%20views&color=0e75b6&style=flat" alt="gunna-rahul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunna-rahul" alt="gunna-rahul" /></a> </p>
 
-- 🔭 I’m currently working on **SONiC**
+- 🔭 I’m currently working on **SONiC NOS**
 
-- 🌱 I’m currently learning **Go,DSA**
+- 🌱 I’m currently learning **SONiC**
 
 - 📫 How to reach me **rahulgunna25@gmail.com**
 
